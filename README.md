@@ -1,4 +1,4 @@
-# MLOps Project
+# Fashion-Image Captioning Project
 
 # Table of Contents
 
@@ -115,4 +115,4 @@ The current pipelines in use:
 - [ECCV Data](https://github.com/xuewyang/Fashion_Captioning)
 - [HuggingFace_jinaai/de](https://huggingface.co/datasets/jinaai/fashion-captions-de)
 - [Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/data)
-- Shopping mall Crawling Dataset
+- [Shopping mall Crawling Dataset](https://www.musinsa.com/app/)
